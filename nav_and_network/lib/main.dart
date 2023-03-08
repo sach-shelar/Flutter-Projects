@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.black,
           centerTitle: true,
-          title: Text("Quotes"),
+          title: Text("Motivational Quotes!"),
         ),
         body: Container(
           padding: const EdgeInsets.all(8.0),
